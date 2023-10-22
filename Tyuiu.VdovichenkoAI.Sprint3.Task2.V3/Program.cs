@@ -16,7 +16,7 @@ namespace Tyuiu.VdovichenkoAI.Sprint3.Task2.V3
             // Длинна строки 75 символов
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Оператор цикла for                                                *");
+            Console.WriteLine("* Тема: Оператор цикла do-while                                           *");
             Console.WriteLine("* Задание #2                                                              *");
             Console.WriteLine("* Вариант #3                                                              *");
             Console.WriteLine("* Выполнила: Вдовиченко А.И. | ИИПб-23-1                                  *");
